@@ -3,7 +3,7 @@ This appliaction is created to let you check your internet speed quickly.
 SpeedTestWidget uses [Ookla's SpeedTest CLI](https://www.speedtest.net/pl/apps/cli) for testing your connection.<br />
 ![Example](https://github.com/DWEeD13/SpeedTestWidget/blob/master/SpeedTestPhotos/started.png)
 ![Example2](https://github.com/DWEeD13/SpeedTestWidget/blob/master/SpeedTestPhotos/finished.png)
-##How to use?
+## How to use?
 Put files "speedtest.exe" and SpeedTest.Widget.exe in the same directory, open SpeedTest.Widget.exe and click Start
 ## Requirements
 * Windows (7, 8, 10, 11)
