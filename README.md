@@ -1,6 +1,6 @@
 # SpeedTestWidget
 This appliaction is created to let you check your internet speed.
-SpeedTestWidget uses [Ookla's SpeedTest CLI](https://www.speedtest.net/pl/apps/cli) for testing your connection.
+SpeedTestWidget uses [Ookla's SpeedTest CLI](https://www.speedtest.net/pl/apps/cli) for testing your connection.<br />
 ![Example](https://github.com/DWEeD13/SpeedTestWidget/blob/master/SpeedTestPhotos/started.png)
 ![Example2](https://github.com/DWEeD13/SpeedTestWidget/blob/master/SpeedTestPhotos/finished.png)
 ## Requirements
