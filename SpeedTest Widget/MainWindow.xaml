@@ -5,7 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SpeedTest_Widget"
         mc:Ignorable="d"
-        Title="SpeedTest" Height="120" Width="350" WindowStyle="None" ResizeMode="NoResize" Background="Transparent" AllowsTransparency="True" WindowStartupLocation="CenterScreen">
+        Title="SpeedTest" Height="120" Width="350" 
+        WindowStyle="None"
+        ResizeMode="NoResize" 
+        Background="Transparent" 
+        AllowsTransparency="True" 
+   
+        >
     
         <Grid>
         <Grid.ColumnDefinitions>

@@ -6,7 +6,12 @@
     <RootNamespace>SpeedTest_Widget</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>SpeedTestIcon.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="SpeedTestIcon.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="SpeedTest.NetCore" Version="2.1.0" />
