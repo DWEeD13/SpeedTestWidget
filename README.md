@@ -7,7 +7,7 @@ SpeedTestWidget uses [Ookla's SpeedTest CLI](https://www.speedtest.net/pl/apps/c
 Put files "speedtest.exe" and "SpeedTest.Widget.exe" in the same directory, open SpeedTest.Widget.exe and click Start
 ## Requirements
 * Windows (7, 8, 10, 11)
-* .NET Framework 6.0 (for not self-contained version)
+* .NET Framework 6.0
 * Internet connection
 ## Copyright and License
 This piece of software is licensed under the GNU GPL v2.0. The complete license could be found at [http://www.gnu.org/licenses/gpl-2.0.txt](http://www.gnu.org/licenses/gpl-2.0.txt) or in the LICENSE.txt file in this repository.
