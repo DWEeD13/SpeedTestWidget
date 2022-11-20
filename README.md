@@ -4,7 +4,7 @@ SpeedTestWidget uses [Ookla's SpeedTest CLI](https://www.speedtest.net/pl/apps/c
 ![Example](https://github.com/DWEeD13/SpeedTestWidget/blob/master/SpeedTestPhotos/started.png)
 ![Example2](https://github.com/DWEeD13/SpeedTestWidget/blob/master/SpeedTestPhotos/finished.png)
 ## How to use?
-Put files "speedtest.exe" and SpeedTest.Widget.exe in the same directory, open SpeedTest.Widget.exe and click Start
+Put files "speedtest.exe" and "SpeedTest.Widget.exe" in the same directory, open SpeedTest.Widget.exe and click Start
 ## Requirements
 * Windows (7, 8, 10, 11)
 * .NET Framework 6.0 (for not self-contained version)
